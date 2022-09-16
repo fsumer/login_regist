@@ -74,7 +74,7 @@ jupyterlab==1.2.4
 jupyterlab-server==1.0.6
 kombu==4.6.7
 lxml==4.4.2
-Mako==1.1.1
+Mako==1.2.2
 MarkupSafe==1.1.1
 mistune==0.8.4
 more-itertools==8.1.0
